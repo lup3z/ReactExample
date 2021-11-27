@@ -76,7 +76,7 @@ function ContentRowTop() {
                         <div className="card-header py-3">
                             <h5 className="m-0 font-weight-bold text-gray-800">Last movie in Data Base</h5>
                         </div>
-                        <div classNameName="card-body">
+                        <div className="card-body">
                             <div className="text-center">
                                 <img className="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 40rem;" src={mando} alt=" Star Wars - Mandalorian "/>
                             </div>
